@@ -89,11 +89,11 @@ A ∩ (A ∪ B) = A
 
 Дополнение пересечения равно объединению дополнений:
 
-$$ TODO $$
+$$ $\overline{A \union B} = \overline{A} \intersection \overline{B}$ $$
 
 Дополнение объединения равно пересечению дополнений:
 
-$$ TODO $$
+$$ $\overline{A \intersection B} = \overline{A} \union \overline{B}$ $$
 
 ## Бинарное отношение на множествах
 
